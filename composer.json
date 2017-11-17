@@ -1,0 +1,22 @@
+{
+    "name": "imtiazmahbub/array-to-text-php",
+    "description": "This PHP class can convert an array into ascii text formatted table",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Imtiaz Mahbub",
+            "email": "md.imtiazmahbub@gmail.com",
+            "homepage": "http://imtiaz.info.bd",
+            "role": "Contributor"
+        },
+        {
+            "name": "Tony Landis",
+            "email": "tony@tonylandis.com",
+            "homepage": "http://www.tonylandis.com/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+    }
+}
